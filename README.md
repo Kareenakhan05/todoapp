@@ -9,19 +9,27 @@ devices and screen sizes. Users can also set deadlines and view tasks with their
 
 Features:
 
-Add Tasks: Enter new tasks with a description and optional due date.
+Add Tasks: 
+Enter new tasks with a description and optional due date.
 
-Edit Tasks: Modify existing tasks and update their descriptions or due dates.
+Edit Tasks:
+Modify existing tasks and update their descriptions or due dates.
 
-Delete Tasks: Remove tasks from the list.
+Delete Tasks:
 
-Mark as Complete: Mark tasks as completed.
+Remove tasks from the list.
 
-View Due Date: Display the due date and time of tasks.
+Mark as Complete:
+Mark tasks as completed.
 
-Responsive Design: Optimized for various screen sizes and devices.
+View Due Date:
+Display the due date and time of tasks.
+
+Responsive Design:
+Optimized for various screen sizes and devices.
 
 Technologies Used:
+
 HTML: For structuring the content.
 
 CSS: For styling and responsive design.
