@@ -32,6 +32,9 @@ Technologies Used:
 
 HTML: For structuring the content.
 
+Here's a link to view todoApp
+   https://kareenakhan05.github.io/todoapp/
+
 CSS: For styling and responsive design.
 
 JavaScript: For adding interactivity and functionality.
